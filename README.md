@@ -60,7 +60,7 @@ Downloads
 ===========
 
 ###Tizen 2.0
-Tizen 2.0 8GB image for A10S-OLinuXino-MICRO with enabled debug console over UART0: 
+Tizen 2.0 8GB image for A10S-OLinuXino-MICRO with enabled debug console over UART0: http://bit.ly/18Dw4zi
 
 ###Tizen 2.0 Alpha
 Tizen 2.0 Alpha 8GB image for A10S-OLinuXino-MICRO: http://bit.ly/1hexQeL
