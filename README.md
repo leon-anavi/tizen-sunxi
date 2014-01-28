@@ -59,6 +59,11 @@ Tizen-sunxi should also work on the following devices:
 Downloads
 ===========
 
+##A20-OLinuXino-MICRO
+Tizen 2.0 8GB image with enabled debug console over UART0: http://bit.ly/1f9QLo0
+
+##A10S-OLinuXino-MICRO
+
 ###Tizen 2.0
 Tizen 2.0 8GB image for A10S-OLinuXino-MICRO with enabled debug console over UART0: http://bit.ly/18Dw4zi
 
@@ -71,6 +76,15 @@ Porting Guide
 2. Create Tizen image
 3. Format SD card
 4. Mount the images
+
+Configuring the Display
+===========
+Change the value of disp.screen0_output_type=X at file uEnv.txt to adjust the display. Replace X with one of: 
+* **0** none
+* **1** lcd
+* **2** tv
+* **3** hdmi
+* **4** vga
 
 Useful Links
 ===========
