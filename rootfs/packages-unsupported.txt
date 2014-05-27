@@ -1,0 +1,67 @@
+#{ x86
+gstreamer-vaapi
+intel-gpu-tools
+libdrm-intel
+libva
+libva-intel-driver
+syslinux
+syslinux-extlinux
+vaapi-tools
+kernel-x86-common
+#}
+
+
+#{ depends on egl (mesa)
+# https://lists.tizen.org/pipermail/dev/2014-May/002998.html
+crosswalk
+tizen-extensions-crosswalk
+
+qt5-qtdeclarative
+qt5-qtdeclarative-examples
+qt5-qtdeclarative-import-folderlistmodel
+qt5-qtdeclarative-import-models2
+qt5-qtdeclarative-import-multimedia
+qt5-qtdeclarative-import-particles2
+qt5-qtdeclarative-import-qtquick2plugin
+qt5-qtdeclarative-import-window2
+qt5-qtdeclarative-import-xmllistmodel
+qt5-qtdeclarative-qmlscene
+qt5-qtdeclarative-qtquick
+qt5-qtdeclarative-qtquickparticles
+qt5-qtopengl
+#}
+
+
+#{ depends on later kernel
+rpm-security-plugin
+smack
+#}
+
+#{ buggy
+bluetooth-share
+capi-content-media-content
+libbluetooth-share
+libmedia-service
+libmedia-thumbnail
+libmedia-utils
+media-server
+media-thumbnail-server
+#}
+
+
+#{ untested
+bluetooth-frwk
+bluetooth-frwk-core
+bluetooth-frwk-service
+bluetooth-share
+bluetooth-share
+bluetooth-tools
+bluetooth-tools-no-firmware
+bluez
+evolution-data-server
+evolution-data-server-locale
+libbluetooth-share
+obexd
+ofono
+pulseaudio-module-bluetooth
+#}

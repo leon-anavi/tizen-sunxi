@@ -1,0 +1,9 @@
+git
+nano
+screen
+weston-rdp
+qt5-qttools-qtdesigner
+libtbm
+libgbm
+qt5-plugin-platform-linuxfb
+
