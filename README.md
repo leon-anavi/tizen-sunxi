@@ -10,12 +10,15 @@ Tizen-sunxi is an open-source project for porting Tizen to devices with Allwinne
 * Allwinner A20 (sun7i) 2x(Cortex-A7)
 
 Tizen-sunxi has been tested with the following devices:
+* A20-OLinuXino-MICRO (Olimex)
+* A10-OLinuXino-LIME (Olimex)
 * A10s-OLinuXino-MICRO (Olimex)
 
 Tizen-sunxi should also work on the following devices:
 * A13-OLinuXino (Olimex)
 * A13-OLinuXino-MICRO (Olimex)
-* A20-OLinuXino-MICRO (Olimex)
+* A20-OLinuXino-LIME (Olimex)
+* Banana Pi
 * Auxtek T003 hdmi tv stick
 * Auxtek T004 hdmi tv stick
 * BA10 TV Box
