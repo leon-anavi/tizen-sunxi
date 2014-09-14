@@ -1,0 +1,3 @@
+console=tty0
+loglevel=5
+extraargs=console=ttyS0,115200 disp.screen0_output_type=3
