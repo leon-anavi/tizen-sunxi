@@ -62,15 +62,22 @@ Tizen-sunxi should also work on the following devices:
 Downloads
 ===========
 
-##A20-OLinuXino-MICRO
+##Tizen:Common
+
+###A20-OLinuXino-MICRO
+Tizen:Common image with enabled Smart Development Bridge (SDB): http://bit.ly/1D8rLKe
+
+##Tizen 2.0
+
+###A20-OLinuXino-MICRO
 Tizen 2.0 8GB image with enabled debug console over UART0: http://bit.ly/1f9QLo0
 
-##A10S-OLinuXino-MICRO
+###A10S-OLinuXino-MICRO
 
-###Tizen 2.0
+####Tizen 2.0
 Tizen 2.0 8GB image for A10S-OLinuXino-MICRO with enabled debug console over UART0: http://bit.ly/18Dw4zi
 
-###Tizen 2.0 Alpha
+####Tizen 2.0 Alpha
 Tizen 2.0 Alpha 8GB image for A10S-OLinuXino-MICRO: http://bit.ly/1hexQeL
 
 Porting Guide
