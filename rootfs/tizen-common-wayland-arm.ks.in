@@ -209,8 +209,7 @@ cat >> /etc/zypp/repos.d/${reponame}.repo << EOF
 name=${reponame}
 enabled=1
 autorefresh=0
-baseurl=http://download.tizen.org/snapshots/tizen/common/common-wayland-arm/latest/repos/common/armv7l/packages/
-baseurl=http://download.tizen.org/snapshots/tizen/common/common-wayland-arm/latest/repos/common/armv7l/packages/
+baseurl=http://download.tizen.org/snapshots/tizen/common/latest/repos/arm-wayland/packages/
 type=rpm-md
 gpgcheck=0
 EOF
