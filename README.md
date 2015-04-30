@@ -104,4 +104,6 @@ Useful Links
 * Creating a Tizen Image https://source.tizen.org/documentation/articles/creating-tizen-image
 * Tizen 2.0 Alpha PandaBoard Images http://download.tizen.org/snapshots/2.0alpha/ivi-panda/latest/images/
 * Getting Started Guide For PandaBoard https://wiki.tizen.org/wiki/Tizen_IVI_Getting_Started_Guide_For_PandaBoard#Preparation
+* Tizen & ARM https://wiki.tizen.org/wiki/ARM
+* How to adapt Tizen:Common ARM images to boot renesas rcar https://dockr.eurogiciel.fr/blogs/embedded/tizen-arm-images-to-renesas/
 
